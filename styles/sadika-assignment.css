@@ -1,0 +1,130 @@
+*{ 
+ font-family: "work sons";
+}
+
+/* background for banner header part */
+
+/* background image */
+.header{ 
+   background-image: url('../images/banner1.png');
+   width: 1600px;
+   height: 800px;
+
+}
+.banner-all-text-style{
+      justify-content: center;
+     position: absolute;
+     text-align: right;
+     width: 100%;
+     top: 25%;
+     color: black;
+}
+.banner-title{
+
+     font-weight: 700px;
+     font-size: 65px;
+  
+}
+.text-description{
+     font-weight: 400px;
+     font-size: 16px;
+}
+.btn{
+     color: rgb(248, 246, 242);
+     background-color: orangered;
+     border: 0px;
+     font-weight: 600;
+     font-size: 20px;
+     border-radius: 10px;
+
+ }
+ /* main body title */
+ .middle-all-text{
+  align-items: center;
+  display: flex;
+  margin-top: 130px;
+  margin-left: 200px;
+ justify-content: space-evenly;
+ 
+
+ }
+ .title{
+     font-weight: 400px;
+     font-size: 45px;
+
+}
+
+/* icon setting */
+.my-plan{
+     margin: 130px;  
+     text-align: center;
+
+}
+.skill-container{
+     display: flex;
+     justify-content: space-between;
+
+
+}
+.skill-title{
+     font-weight: 700;
+     font-size: 20px;
+
+}
+ 
+
+/* grade*/
+
+ .grade{
+ text-align: left;
+ position: absolute;
+ margin: 130px;
+align-items: center;
+background-image: url("../images/gradient3.png"),url("../images/watch.png");
+width: 1140px;
+height: 300px;
+
+ }
+.advertise-title{
+  margin-left: 200px;
+  color: antiquewhite;
+  margin-top: 130px;
+  
+}
+
+.btn2{
+  color: rgb(248, 104, 8);
+  font-weight: 600;
+  font-size: 20px;
+  border: 0px;
+  height: 50px;
+  background-color: antiquewhite;
+  
+}
+.skill-description{
+     color: rgb(133, 131, 131);
+
+
+}
+/* contact style */
+
+.contact{
+     background-color: black;
+     display: flex;
+     gap: 100px;
+     padding: 120px 200px;
+     
+     
+}
+.contact .section-title{
+     color: antiquewhite;
+     text-align: left;
+
+}
+.btn3{
+     color: rgb(248, 104, 8);
+     font-weight: 600;
+     font-size: 20px;
+     border: 0px;
+     height: 50px;
+     background-color: antiquewhite;}
