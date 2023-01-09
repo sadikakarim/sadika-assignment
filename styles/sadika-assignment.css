@@ -9,6 +9,7 @@
    background-image: url('../images/banner1.png');
    width: 1600px;
    height: 800px;
+   
 
 }
 .banner-all-text-style{
@@ -155,7 +156,7 @@ padding-top: 130px;
      margin-bottom: 24px;
      width: 100%;
      border: 0px;
-     padding:18px 30px;
+    
 }
 .input{
      height: 64px;
